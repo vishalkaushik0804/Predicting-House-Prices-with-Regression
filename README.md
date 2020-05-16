@@ -2,5 +2,5 @@ It is a trained Neural Network model that will be able to predict House Prices w
 It takes some information like the age of the house, geographical location as input and predicts the price of a house.
 This model is based on Keras with TensorFlow as its backend and uses it to solve a basic regression problem.
 Steps to Solve the Problem:
-Create, train, and evaluate neural network models.
-Use neural networks to solve regression problems.
+1. Create, train, and evaluate neural network models.
+2. Use neural networks to solve regression problems.
